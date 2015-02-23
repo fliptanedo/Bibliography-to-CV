@@ -1,0 +1,88 @@
+%\cite{Bellazzini:2013foa}
+\bibitem{Bellazzini:2013foa} 
+  B.~Bellazzini, M.~Cliche and P.~Tanedo,
+  %``The Effective Theory of Self-Interacting Dark Matter,''
+  arXiv:1307.1129 [hep-ph].
+  %%CITATION = ARXIV:1307.1129;%%
+  %1 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Tanedo:2007jha}
+\bibitem{Tanedo:2007jha} 
+  P.~Tanedo,
+  %``Massive Neutrinos in a Warped Extra Dimension,''
+  %%CITATION = INSPIRE-1232539;%%
+%\cite{Berger:2013sir}
+\bibitem{Berger:2013sir} 
+  J.~Berger, M.~Perelstein, M.~Saelim and P.~Tanedo,
+  %``The Same-Sign Dilepton Signature of RPV/MFV SUSY,''
+  JHEP {\bf 1304}, 077 (2013)
+  [arXiv:1302.2146 [hep-ph]].
+  %%CITATION = ARXIV:1302.2146;%%
+  %10 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Hewett:2012ns}
+\bibitem{Hewett:2012ns} 
+  J.~L.~Hewett, H.~Weerts, R.~Brock, J.~N.~Butler, B.~C.~K.~Casey, J.~Collar, A.~de Gouvea and R.~Essig {\it et al.},
+  %``Fundamental Physics at the Intensity Frontier,''
+  arXiv:1205.2671 [hep-ex].
+  %%CITATION = ARXIV:1205.2671;%%
+  %85 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Blanke:2012tv}
+\bibitem{Blanke:2012tv} 
+  M.~Blanke, B.~Shakya, P.~Tanedo and Y.~Tsai,
+  %``The Birds and the Bs in RS: The $b to s \gamma$ penguin in a warped extra dimension,''
+  JHEP {\bf 1208}, 038 (2012)
+  [arXiv:1203.6650 [hep-ph]].
+  %%CITATION = ARXIV:1203.6650;%%
+  %10 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Crivellin:2012jv}
+\bibitem{Crivellin:2012jv} 
+  A.~Crivellin, J.~Rosiek, P.~H.~Chankowski, A.~Dedes, S.~Jaeger and P.~Tanedo,
+  %``SUSY_FLAVOR v2: A Computational tool for FCNC and CP-violating processes in the MSSM,''
+  Comput.\ Phys.\ Commun.\  {\bf 184}, 1004 (2013)
+  [arXiv:1203.5023 [hep-ph]].
+  %%CITATION = ARXIV:1203.5023;%%
+  %15 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Bunk:2011ww}
+\bibitem{Bunk:2011ww} 
+  D.~Bunk, J.~Hubisz, J.~Shao and P.~Tanedo,
+  %``A Top Seesaw on a 5D Playground,''
+  arXiv:1111.3951 [hep-ph].
+  %%CITATION = ARXIV:1111.3951;%%
+  %1 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Bellazzini:2011et}
+\bibitem{Bellazzini:2011et} 
+  B.~Bellazzini, C.~Csaki, J.~Hubisz, J.~Shao and P.~Tanedo,
+  %``Goldstone Fermion Dark Matter,''
+  JHEP {\bf 1109}, 035 (2011)
+  [arXiv:1106.2162 [hep-ph]].
+  %%CITATION = ARXIV:1106.2162;%%
+  %5 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Csaki:2010aj}
+\bibitem{Csaki:2010aj} 
+  C.~Csaki, Y.~Grossman, P.~Tanedo and Y.~Tsai,
+  %``Warped penguin diagrams,''
+  Phys.\ Rev.\ D {\bf 83}, 073002 (2011)
+  [arXiv:1004.2037 [hep-ph]].
+  %%CITATION = ARXIV:1004.2037;%%
+  %17 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Rosiek:2010ug}
+\bibitem{Rosiek:2010ug} 
+  J.~Rosiek, P.~Chankowski, A.~Dedes, S.~Jager and P.~Tanedo,
+  %``SUSY_FLAVOR: A Computational Tool for FCNC and CP-Violating Processes in the MSSM,''
+  Comput.\ Phys.\ Commun.\  {\bf 181}, 2180 (2010)
+  [arXiv:1003.4260 [hep-ph]].
+  %%CITATION = ARXIV:1003.4260;%%
+  %16 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Dedes:2008iw}
+\bibitem{Dedes:2008iw} 
+  A.~Dedes, J.~Rosiek and P.~Tanedo,
+  %``Complete One-Loop MSSM Predictions for B --> lepton lepton' at the Tevatron and LHC,''
+  Phys.\ Rev.\ D {\bf 79}, 055006 (2009)
+  [arXiv:0812.4320 [hep-ph]].
+  %%CITATION = ARXIV:0812.4320;%%
+  %18 citations counted in INSPIRE as of 19 Oct 2013
+%\cite{Tanedo:2003mf}
+\bibitem{Tanedo:2003mf} 
+  P.~Tanedo,
+  %``Modeling of the transverse linear optics of a charged particle storage ring,''
+  SLAC-TN-03-016.
+  %%CITATION = SLAC-TN-03-016;%%

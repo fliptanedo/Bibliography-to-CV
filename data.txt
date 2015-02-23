@@ -1,0 +1,24 @@
+Classes
+
+Contact Information
+    Name
+    Address line1   Street and room
+    Address line2   University
+    Address line3   City, State
+    Phone
+    email
+    web
+
+Blurb
+    research interests
+    
+Education
+    University
+        degree (can have multiple, can have year)
+        advisor
+        thesis (w/link)
+        
+        
+Class data
+    datum
+    link
